@@ -76,7 +76,7 @@
 
 ### 💬 Connect With Me
 
-<div align="center">
+<div align="center" style="display: flex; gap: 5px;">
   <a href="https://discord.com/users/1161983627593977937" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2/ffffff" width="36"/>
   </a>
