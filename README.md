@@ -76,8 +76,8 @@
 
 ### 💬 Connect With Me
 
-<div align="center" style="display: flex; gap: 5px;">
-  <a href="https://discord.com/users/1161983627593977937" target="_blank">
+<div align="center">
+  <a href="https://discord.com/users/1161983627593977937" target="_blank" style="margin-left: 10px;">
     <img src="https://cdn.simpleicons.org/discord/5865F2/ffffff" width="36"/>
   </a>
   <a href="https://threads.net/@reonfrl" target="_blank">
