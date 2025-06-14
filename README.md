@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" alt="Banner" width="100%"/>
+  <img src="https://i.pinimg.com/originals/dc/d1/fb/dcd1fb0f995baa4d2a4a9be54a590856.gif" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hey there 👋, I'm Nihal (aka Nexn)</h1>
@@ -77,7 +77,7 @@
 ### 💬 Connect With Me
 
 <div align="center">
-  <a href="https://discord.com/users/1161983627593977937" target="_blank" style="margin-left: 10px;">
+  <a href="https://discord.com/users/1161983627593977937" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2/ffffff" width="36"/>
   </a>
   <a href="https://threads.net/@reonfrl" target="_blank">
