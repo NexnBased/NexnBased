@@ -31,23 +31,4 @@
   <img src="https://skillicons.dev/icons?i=vscode,vscodium,postman,pycharm,figma,webflow,photoshop,illustrator" height="60" draggable="false" />
 </div>
 
----
-
-### 💬 Connect With Me
-
-<p align="center">
-  <a href="https://discord.com/users/1161983627593977937" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" width="50" height="50" />
-  </a>
-  <a href="https://threads.net/@reonfrl" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Threads_%28app%29.png" width="50" height="50" />
-  </a>
-  <a href="https://reddit.com/u/nexnbased" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/250px-Reddit_Logo_Icon.svg.png" width="50" height="50" />
-  </a>
-  <a href="https://t.me/nexnreal" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="50" height="50" />
-  </a>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
