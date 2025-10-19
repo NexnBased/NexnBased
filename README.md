@@ -1,12 +1,9 @@
 <img draggable="false" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
 
-<div style="display: flex; flex-direction: row; gap: 20px; justify-content: center;">
+<div>
   <img draggable="false" src="https://komarev.com/ghpvc/?username=nexnbased&label=Profile+Views&color=58a6ff&style=flat" />
   <img draggable="false" src="https://img.shields.io/github/followers/nexnbased?label=Followers&style=flat&logo=github" />
 </div>
-
-<h2>Nihal</h2>
-<h4>All projects are private</h4>
 
 <h1 align="center" style="padding-top: 30px; font-family: monospace;">
   Tech Stack
