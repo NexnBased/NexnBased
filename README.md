@@ -1,12 +1,5 @@
 <img draggable="false" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
 
-<h1 align="center" style="letter-spacing: 1px; font-weight: bold;">
-  Hey there, I'm Nihal
-</h1>
-<h4 align="center" style="font-weight: normal; font-family: monospace;">
-  🚀 Frontend | 🧪 Experimenter | 🌌 Minimalist
-</h4>
-
 <h5 align="center">
   <span style="color: yellow; font-weight: bolder;">+</span>
   All projects are temporarily private
