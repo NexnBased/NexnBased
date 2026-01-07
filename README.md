@@ -1,3 +1,4 @@
+## All projects are temporarily private
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/848516980637696040) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niihhhaaalllllll) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/thenexnn) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nexnthegoat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thenexnn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC-DqqLmoj2TJcgSu8XIHSaw) 
@@ -8,20 +9,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=NexnBased&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NexnBased&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NexnBased&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=NexnBased&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center" style="padding-top: 30px; font-family: monospace;">
-  Tech Stack (From old MD)
-</h1>
-<div style="display: flex; flex-direction: column; gap: 8px;">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,py,lua,go" height="60" draggable="false" />
-  <img src="https://skillicons.dev/icons?i=react,vite,next,nuxt,svelte,vue,express,electron" height="60" draggable="false" />
-  <img src="https://skillicons.dev/icons?i=deno,npm,yarn,bun,bash,windows,linux,arch" height="60" draggable="false" />
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,gmail" height="60" draggable="false" />
-  <img src="https://skillicons.dev/icons?i=nodejs,obsidian,powershell,sqlite,tailwind,mui" height="60" draggable="false" />
-  <img src="https://skillicons.dev/icons?i=apollo,postgres,firebase,supabase,graphql,mongodb,mysql,nestjs" height="60" draggable="false" />
-  <img src="https://skillicons.dev/icons?i=vscode,vscodium,postman,pycharm,figma,webflow,photoshop,illustrator" height="60" draggable="false" />
-</div>
