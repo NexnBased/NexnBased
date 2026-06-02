@@ -1,8 +1,16 @@
 # All Projects are private
-| Projects | Status | Progress | Edition | Framework | Backend | Database | Size | Size (+NM) |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Akine | `Inctive` | `Unknown` |  Corp | NextJS | `None` | `None` | `0.7 KB` | `546 MB` |
-| Infinitia | `Active` | `Unknown` | Remake | React | `NodeJS Express` | `Supabase, MongoDB` | `Unknown` | `E: 401` |
+# Stat
+| Projects | Status | Progress | Edition | Framework | Backend | Database
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Akine | `Inctive` | `---` |  Corp | NextJS | `None` | `None`
+| Infinitia | `Active` | `---` | Remake | React | `NodeJS Express` | `Supabase, MongoDB`
+
+# Upcoming
+| Projects | Framework | Progress | About
+| ------------- | ------------- | ------------- | ------------- |
+| Metro Chat | `Nuxt 4.4` | `---` | `End-to-End Encrypted Messaging`
+| Neo Chat | `` | `---` | `Another Messaging up but totally anonymous`
+
 
 # Tech stack
 | | |
