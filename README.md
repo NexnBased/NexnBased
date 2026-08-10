@@ -1,4 +1,4 @@
-# All Projects are private
+# !! All Projects are private !!
 # Stat
 | Projects | Status | Progress | Edition | Framework | Backend | Database
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -6,11 +6,9 @@
 | Infinitia | `Active` | `---` | Remake | React | `NodeJS Express` | `Supabase, MongoDB`
 
 # Upcoming
-| Projects | Framework | Progress | About
+| Projects | Framework | Progress | Info
 | ------------- | ------------- | ------------- | ------------- |
-| Metro Chat | `Nuxt 4.4` | `---` | `End-to-End Encrypted Messaging`
-| Neo Chat | `` | `---` | `Another Messaging up but totally anonymous`
-
+| Metro Chat | `Nuxt 4.4` | `---` | `E2E Messaging App`
 
 # Tech stack
 | | |
