@@ -1,11 +1,10 @@
-# !! All Projects are private !!
 # Public Projects
 - Personal Site
 - Mochi Color Picker
 - NexOS (WebOS) 1
 - Beacon DevPort Manager
 
-# ( Private Projects )
+# Private Projects
 - Akine
 - Infinitia (Remake)
 - Kiwi Chat
